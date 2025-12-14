@@ -23,7 +23,7 @@
 - Свайп вгору/вправо/вниз/вліво - рух гравця
 - Мета: дійти до клітинки виходу (зелений квадрат)
 ## Приклад роботи (емулятор)
-![Screen recording](https://i.ibb.co/0R6JqZDg/Screen-recording-20251214-231300.gif)
+![Screen recording](https://i.ibb.co/nNYkrfgH/Screen-recording-20251214-231300.gif)
 
 ![Screenshot 1](https://i.ibb.co/6RNGJszK/Screenshot-20251214-231217.png)
 
